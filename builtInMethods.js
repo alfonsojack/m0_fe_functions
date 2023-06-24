@@ -75,3 +75,4 @@ console.log(bandMembers.join(" and "));
 // As "Bob" is not featured in the array, the console.log() statement will print the return value "false"
 var partyInvitees = ["Joe", "Karen", "Jacob", "Lisa"];
 console.log(partyInvitees.includes("Bob"))
+
