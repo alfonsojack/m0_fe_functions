@@ -7,15 +7,25 @@
 // No arguments are passed; toLowerCase() has one clear job which is to lowercase all letters that exist in the String
 // The return value is "hello world"
 "Hello World".toLowerCase();
+console.log("Hello World".toLowerCase());
 
-
+//The includes() method is called on the string "Hello World"
+//The argument is "Hello", includes() job is to decide whether said argument is part of the string
+//The return value should be "true"
 "Hello World".includes("Hello");
+console.log("Hello World".includes("Hello"));
 
-
+//The endsWith() method is called on the string "Hello World"
+//The argument is "Hello", the job of endsWith() is to decide whether the string ends with the characters of said argument
+//The return value should be "false"
 "Hello World".endsWith("Hello");
+console.log("Hello World".endsWith("Hello"));
 
-
+//The endsWith() method is called on the string "Hello World"
+//The argument is "rld", the job of endsWith() is to decide whether the string ends with the characters of said argument
+//The return value should be "true"
 "Hello World".endsWith("rld");
+console.log("Hello World".endsWith('rld'));
 
 
 
