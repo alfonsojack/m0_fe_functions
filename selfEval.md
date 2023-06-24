@@ -1,4 +1,4 @@
 # Self-Evaluation
 
-- Reflect on your learning and work today. What are you most proud of?
-- In your own words, why are functions a powerful tool in our applications?
+- Reflect on your learning and work today. What are you most proud of? I'm proud of the attempts I made to go beyond the bare minimum and combine what I learned in past segments with the new tools we learned in this segment. It was satisfying to figure out how to nest a for statement within a function
+- In your own words, why are functions a powerful tool in our applications? They save a ton of time and space and make code more efficient. Instead of carrying out an action on our own every time, we can create a shorthand that tells our computer to carry out that action for us.
